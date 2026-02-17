@@ -1,1 +1,1 @@
-# CS320_HW
+Repository for git setup, Jayakrishna Kambhampati
